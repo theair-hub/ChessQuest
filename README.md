@@ -7,6 +7,17 @@ Instead of looking outward for improvement, more tutorials, more theory, I decid
 
 ---
 
+## Requirements
+
+To run the notebook, install the required packages by uncommenting and executing the first cell:
+
+```
+!pip install pandas numpy matplotlib plotly kaleido requests
+!plotly_get_chrome
+```
+
+Plotly renders are set to `"colab"` throughout. If you are running the notebook in a local Jupyter environment, replace `pio.renderers.default = "colab"` with `pio.renderers.default = "svg"` in each cell.
+
 ## Files
 
 **`ChessQuest.ipynb`**
