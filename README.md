@@ -31,6 +31,10 @@ A summary visualisation of the project's key findings, designed in Canva. Intend
 
 ---
 
+## Visualization
+
+![ChessQuest summary](visualisation.jpg)
+
 ## Tools & Transparency
 
 Data was retrieved via the [chess.com Public API](https://www.chess.com/news/view/published-data-api) using Python. Visualisations in the notebook were coded with the assistance of Claude (Anthropic). All written analysis and interpretations are my own. The summary visual was designed independently in Canva.
